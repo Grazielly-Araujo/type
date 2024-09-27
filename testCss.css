@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: rgb(242, 109, 131);
+}
+.cube{
+
+    background-color: lightblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 30% 40%;
+
+}
+.cube picture img {
+    margin: 10px, 50px, 10px, 10px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.ball{
+    margin: 10px;
+    background-color: lightgreen;
+    width: 150px;
+    height: 150px;
+    border-top-left-radius: 30%;
+}
+.trin{
+    margin: 10px;
+    background-color: lightcoral;
+    width: 150px;
+    height: 150px;
+    border-top-left-radius: 30%;
+}
+.all{
+    margin: 10px;
+    background-color: lightseagreen;
+    width: 150px;
+    height: 150px;
+    border-top-left-radius: 30%;
+}
+
+

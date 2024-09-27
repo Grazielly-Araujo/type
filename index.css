@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: rgb(177, 173, 173);
+}
+
+fieldset{
+    background-color: white;
+}
+
+legend{
+    background-color: white;
+    border-radius: 30px;
+    border: 2px;
+}
+legend :hover{
+    color: brown;
+}
+
+
